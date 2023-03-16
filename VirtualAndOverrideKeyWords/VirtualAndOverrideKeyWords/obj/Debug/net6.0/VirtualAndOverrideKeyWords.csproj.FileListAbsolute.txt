@@ -1,0 +1,15 @@
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\bin\Debug\net6.0\VirtualAndOverrideKeyWords.exe
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\bin\Debug\net6.0\VirtualAndOverrideKeyWords.deps.json
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\bin\Debug\net6.0\VirtualAndOverrideKeyWords.runtimeconfig.json
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\bin\Debug\net6.0\VirtualAndOverrideKeyWords.dll
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\bin\Debug\net6.0\VirtualAndOverrideKeyWords.pdb
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.csproj.AssemblyReference.cache
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.AssemblyInfoInputs.cache
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.AssemblyInfo.cs
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.csproj.CoreCompileInputs.cache
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.dll
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\refint\VirtualAndOverrideKeyWords.dll
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.pdb
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\VirtualAndOverrideKeyWords.genruntimeconfig.cache
+C:\Users\Amachuarori\source\repos\VirtualAndOverrideKeyWords\VirtualAndOverrideKeyWords\obj\Debug\net6.0\ref\VirtualAndOverrideKeyWords.dll

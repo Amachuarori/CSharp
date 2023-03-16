@@ -1,0 +1,15 @@
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\bin\Debug\net6.0\ForTimers.exe
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\bin\Debug\net6.0\ForTimers.deps.json
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\bin\Debug\net6.0\ForTimers.runtimeconfig.json
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\bin\Debug\net6.0\ForTimers.dll
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\bin\Debug\net6.0\ForTimers.pdb
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.csproj.AssemblyReference.cache
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.AssemblyInfoInputs.cache
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.AssemblyInfo.cs
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.csproj.CoreCompileInputs.cache
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.dll
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\refint\ForTimers.dll
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.pdb
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ForTimers.genruntimeconfig.cache
+C:\Users\Amachuarori\source\repos\ForTimers\ForTimers\obj\Debug\net6.0\ref\ForTimers.dll

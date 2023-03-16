@@ -1,0 +1,15 @@
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\bin\Debug\net6.0\ReadAndWriteFromATextFile.exe
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\bin\Debug\net6.0\ReadAndWriteFromATextFile.deps.json
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\bin\Debug\net6.0\ReadAndWriteFromATextFile.runtimeconfig.json
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\bin\Debug\net6.0\ReadAndWriteFromATextFile.dll
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\bin\Debug\net6.0\ReadAndWriteFromATextFile.pdb
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.csproj.AssemblyReference.cache
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.AssemblyInfoInputs.cache
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.AssemblyInfo.cs
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.csproj.CoreCompileInputs.cache
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.dll
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\refint\ReadAndWriteFromATextFile.dll
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.pdb
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ReadAndWriteFromATextFile.genruntimeconfig.cache
+C:\Users\Amachuarori\source\repos\ReadAndWriteFromATextFile\ReadAndWriteFromATextFile\obj\Debug\net6.0\ref\ReadAndWriteFromATextFile.dll

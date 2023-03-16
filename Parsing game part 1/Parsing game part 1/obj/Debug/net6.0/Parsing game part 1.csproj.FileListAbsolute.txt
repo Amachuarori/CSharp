@@ -1,0 +1,15 @@
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\bin\Debug\net6.0\Parsing game part 1.exe
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\bin\Debug\net6.0\Parsing game part 1.deps.json
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\bin\Debug\net6.0\Parsing game part 1.runtimeconfig.json
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\bin\Debug\net6.0\Parsing game part 1.dll
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\bin\Debug\net6.0\Parsing game part 1.pdb
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.csproj.AssemblyReference.cache
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.AssemblyInfoInputs.cache
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.AssemblyInfo.cs
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.csproj.CoreCompileInputs.cache
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.dll
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\refint\Parsing game part 1.dll
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.pdb
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\Parsing game part 1.genruntimeconfig.cache
+C:\Users\Amachuarori\source\repos\Parsing game part 1\Parsing game part 1\obj\Debug\net6.0\ref\Parsing game part 1.dll

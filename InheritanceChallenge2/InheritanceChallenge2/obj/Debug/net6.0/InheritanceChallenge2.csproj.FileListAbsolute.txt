@@ -1,0 +1,15 @@
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.exe
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.deps.json
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.runtimeconfig.json
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.dll
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.pdb
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.csproj.AssemblyReference.cache
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.AssemblyInfoInputs.cache
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.AssemblyInfo.cs
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.dll
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\refint\InheritanceChallenge2.dll
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.pdb
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.genruntimeconfig.cache
+C:\Users\Amachuarori\source\repos\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net6.0\ref\InheritanceChallenge2.dll
